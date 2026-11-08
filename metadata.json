@@ -1,0 +1,6 @@
+{
+  "name": "Cartografía Úcupe - Huaca El Pueblo",
+  "description": "Animación cartográfica documental del recorrido peatonal universitario en Úcupe, Lambayeque, hacia la Huaca El Pueblo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
